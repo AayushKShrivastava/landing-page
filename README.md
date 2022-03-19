@@ -1,5 +1,5 @@
 # landing-page
-![SCreenshot](./landing-page.png)
+![SCreenshot](./landing-page.png) <br>
 Deployed Link: https://aayushkshrivastava.github.io/landing-page/
 
 Image used in the Landing Page
