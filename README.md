@@ -1,7 +1,8 @@
 # landing-page
-In this project will create a landing page.
+![SCreenshot](./landing-page.png)
+Deployed Link: https://aayushkshrivastava.github.io/landing-page/
 
-Image Credits
+Image used in the Landing Page
 Photo by Pixabay from Pexels
 Image Link: https://www.pexels.com/photo/gray-and-black-galaxy-wallpaper-2150/
 
